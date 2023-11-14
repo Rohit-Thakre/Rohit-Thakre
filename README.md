@@ -93,6 +93,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rohit-Thakre/Rohit-Thakre/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Rohit-Thakre/Rohit-Thakre/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
+
+![snake gif](https://github.com/Rohit-Thakre/Rohit-Thakre/blob/output/github-contribution-grid-snake.gif)
